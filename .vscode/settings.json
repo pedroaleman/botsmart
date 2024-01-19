@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b39a0892-9004-4edf-8f9a-6c24ce9cf21a/resourceGroups/Recursos_PayTam/providers/Microsoft.Web/sites/bot-smart",
+    "appService.deploySubpath": "."
+}
